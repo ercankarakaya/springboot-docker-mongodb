@@ -1,4 +1,4 @@
-# Spring Boot – Docker – MongoDB Example Project
+# Spring Boot Docker MongoDB Example Project
 
 This project is a simple example of integrating Spring Boot with Docker and MongoDB. The following instructions will guide you through setting up the project and running it in a Dockerized environment.
 
