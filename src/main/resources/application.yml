@@ -1,0 +1,6 @@
+spring:
+  data:
+    mongodb:
+      database: Person
+      host: mymongodb
+      port: 27017
